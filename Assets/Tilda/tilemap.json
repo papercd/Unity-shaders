@@ -1,0 +1,74 @@
+{
+  "name": "test2",
+  "tileSize": 32,
+  "width": 64,
+  "height": 64,
+  "tileset": {
+    "name": "Tileset 1",
+    "columns": 28,
+    "tileWidth": 32,
+    "tileHeight": 32
+  },
+  "layers": [
+    {
+      "name": "middle-ground",
+      "tiles": []
+    },
+    {
+      "name": "ground",
+      "tiles": []
+    },
+    {
+      "name": "ladder",
+      "tiles": []
+    },
+    {
+      "name": "foreground",
+      "tiles": []
+    },
+    {
+      "name": "decoration",
+      "tiles": []
+    },
+    {
+      "name": "background",
+      "tiles": []
+    },
+    {
+      "name": "middle_ground",
+      "tiles": []
+    },
+    {
+      "name": "ground",
+      "tiles": []
+    },
+    {
+      "name": "ladder",
+      "tiles": []
+    },
+    {
+      "name": "foreground",
+      "tiles": []
+    },
+    {
+      "name": "decoration",
+      "tiles": []
+    },
+    {
+      "name": "Base Layer",
+      "tiles": []
+    },
+    {
+      "name": "ground",
+      "tiles": []
+    },
+    {
+      "name": "Base Layer",
+      "tiles": []
+    },
+    {
+      "name": "Layer 2dddddddddd",
+      "tiles": []
+    }
+  ]
+}
